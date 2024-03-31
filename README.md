@@ -1,3 +1,7 @@
+Software NO CODE. Se encuentra en GitHUB con fines de almacenamiento y órden. 
+El programa se puede descargar e instalar en cualquier máquina con WINDOWS
+Solicitar usuario y contraseña al propietario.
+
 # Telemedicion-XME
 Telemedición de transmisores de TV y radio marca LIECOM (Labview 100%)
 
